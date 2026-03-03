@@ -33,6 +33,26 @@ This repository contains a subscription-based library/reading hall management sy
 
 Visit `http://localhost:4200` in your browser to use the application.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b19f266-225e-4dfa-8389-13eddf2e8a06" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64b07d5e-7a58-42cd-8ae4-3692d05ab482" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7213cd64-8a22-4f59-8b9a-4a1a42171542" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d759a39-da65-4792-8643-7d839e3dc8dc" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93cbde17-f605-4563-b4ff-67c4d7604208" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c4b94a1-eb76-4a2e-8337-9ff2f7c367f0" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72474db1-dba6-4ba5-93e4-b9bfcf451da1" />
+
+
+
+
+
+
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
