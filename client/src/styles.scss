@@ -1,0 +1,77 @@
+/* ─────────── Global styles ─────────── */
+body {
+  background-color: #f4f6fb;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Sidebar layout */
+.sidebar {
+  width: 240px;
+  min-height: 100vh;
+  background: #1a2236;
+  color: #c9d1e3;
+  position: fixed;
+  top: 0; left: 0;
+  z-index: 100;
+  transition: width 0.2s;
+
+  .brand {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+    padding: 1.2rem 1.5rem;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    letter-spacing: 0.5px;
+  }
+
+  .nav-link {
+    color: #c9d1e3;
+    padding: 0.65rem 1.4rem;
+    border-radius: 6px;
+    margin: 2px 8px;
+    font-size: 0.9rem;
+    transition: background 0.15s;
+    &:hover, &.active {
+      background: rgba(255,255,255,0.1);
+      color: #fff;
+    }
+    i { margin-right: 8px; font-size: 1rem; }
+  }
+}
+
+.main-content {
+  margin-left: 240px;
+  padding: 1.5rem;
+}
+
+/* Cards */
+.stat-card {
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+/* Auth pages */
+.auth-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #1a2236 0%, #283655 100%);
+  display: flex; align-items: center; justify-content: center;
+}
+
+.auth-card {
+  width: 420px;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+}
+
+/* Badge helpers */
+.badge-active    { background: #198754 !important; }
+.badge-expired   { background: #dc3545 !important; }
+.badge-pending   { background: #ffc107 !important; color: #222 !important; }
+.badge-suspended { background: #6c757d !important; }
+
+/* Table fixes */
+.table td, .table th { vertical-align: middle; }
+
+/* Toast */
+.toast-container { z-index: 9999; }
